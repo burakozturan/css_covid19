@@ -1,4 +1,7 @@
-# tria-covid19
+# COVID-19 Twitter Veritabanı: Türkiye Örneklemi
 
 
-Bu proje
+
+
+
+

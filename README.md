@@ -27,8 +27,14 @@ Araştırma sırasıyla aşağıdaki adımlar izlenerek tasarlanmıştır:
   * Twitter'ın [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy) ile uyumlu olarak toplanılan twitlerin sadece Tweet ID'leri temalara bölünerek dosyalar halinde depolanmıştır.
   * Bu ID'leri kullanarak çalışma yapmak isteyenler için [Hydrator](https://github.com/DocNow/hydrator) and [Twarc](https://github.com/DocNow/twarc) gibi araçları kullanmayı tavsiye ediyoruz. Detaylı talimatlar için linklerdeki açıklamalara bakılabilir. 
 
-## Kullanılan Kodlar
-
+### Kullanılan Kodlar
+Bu çalışmada temel olarak üç kod setine dayanarak yapılmıştır.
+ * İlk olarak Twitter'dan veri çekebilmek için Python dilinde yazılmış [Twint](https://github.com/twintproject/twint)paketinden yararlanmıştır.
+ * Daha sonra, elde edilen verileri düzenlemek ve ID'lerini çıkarıp kamusallaştırmak için bazı [kodları]
+(https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/data/data_birlestirme.ipynb) birleştirerek düzenledik.
+ * En son olarak, içeriğe dair ilk fikirlerimizi elde etmek için [hesaplamalı metin analizi kodlarını]
+(https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/analiz/Covid_quantitative_text_analysis.ipynb)
+kullandık.
 
 ## Temel Çıktılar
 

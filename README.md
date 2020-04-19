@@ -29,11 +29,9 @@ Araştırma sırasıyla aşağıdaki adımlar izlenerek tasarlanmıştır:
 
 ### Kullanılan Kodlar
 Bu çalışmada temel olarak üç kod setine dayanarak yapılmıştır.
- * İlk olarak Twitter'dan veri çekebilmek için Python dilinde yazılmış [Twint](https://github.com/twintproject/twint)paketinden yararlanmıştır.
- * Daha sonra, elde edilen verileri düzenlemek ve ID'lerini çıkarıp kamusallaştırmak için bazı [kodları]
-(https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/data/data_birlestirme.ipynb) birleştirerek düzenledik.
- * En son olarak, içeriğe dair ilk fikirlerimizi elde etmek için [hesaplamalı metin analizi kodlarını]
-(https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/analiz/Covid_quantitative_text_analysis.ipynb)
+ * İlk olarak Twitter'dan veri çekebilmek için Python dilinde yazılmış [Twint](https://github.com/twintproject/twint) paketinden yararlanmıştır.
+ * Daha sonra, elde edilen verileri düzenlemek ve ID'lerini çıkarıp kamusallaştırmak için bazı [kodları](https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/data/data_birlestirme.ipynb) birleştirerek düzenledik.
+ * En son olarak, içeriğe dair ilk fikirlerimizi elde etmek için [hesaplamalı metin analizi kodlarını](https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/analiz/Covid_quantitative_text_analysis.ipynb)
 kullandık.
 
 ## Temel Çıktılar

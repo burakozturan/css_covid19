@@ -24,7 +24,7 @@ Araştırma sırasıyla aşağıdaki adımlar izlenerek tasarlanmıştır:
   * Bu açılardan, bu dosyadaki veriseti ilk vakanın açıklanmasından önce ve sonraki gündem değişimlerini ve sürekliliklerini incelemeye imkan tanımaktadır.
 
 ### Verilerin Depolanması ve ID'lerin Çıkarılması
-  * Twitter'ın [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy) ile uyumlu olarak toplanılan twitlerin sadece Tweet ID'leri temalara bölünerek dosyalar halinde depolanmıştır.
+  * Twitter'ın [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy) ile uyumlu olarak toplanılan twitlerin sadece Tweet ID'leri temalara bölünerek dosyalar halinde depolanmıştır. ID'ler çıkarılırken iki defa çekilen twitler temizlenmiştir.
   * Bu ID'leri kullanarak çalışma yapmak isteyenler için [Hydrator](https://github.com/DocNow/hydrator) and [Twarc](https://github.com/DocNow/twarc) gibi araçları kullanmayı tavsiye ediyoruz. Detaylı talimatlar için linklerdeki açıklamalara bakılabilir. 
 
 ### Kullanılan Kodlar
@@ -36,11 +36,33 @@ kullanılmıştır.
 
 ## Temel Çıktılar
 
+Elde edilen twitler üzerinden, ilk vakanın acıklanmasının öncesi ve sonrasi en çok geçen kelimelere göre [tablo](https://github.com/burakozturan/tria-covid19/tree/master/sonuç%20tabloları) olarak eklenmiştir. 
+
+6 farklı temanın iki farklı zaman diliminde twitlerinin temel istatistikleri aşağıdaki gibidir:
+
+Number of Tweets : ****
+
+| Tema            | Önce          | Sonra            | Toplam             |
+|-------------    |-----          |------------      |----------------    |
+| COVID           | 161,109       | 1,427,569        | 1,588,678          |
+| Politika        | 355,992       | 367,992          | 723,984            |
+| Dezenformasyon  | 51,521        | 88,007           | 139,528            |
+| Din             | 355,992       | 2,918,003        | 3.08%              |
+| Ekonomi         | 19,532        | 74,682           | 94,214             |
+| Ülkeler         | 355,992       | 2,355,393        | 2.49%              |
+| Toplam          | 355,992       | 2,355,393        | 2.49%              |
 
 ## Gelecek Çalışmalar
 
+Bu veriseti çalışması öncelikli olarak gelecek çalışmalara zemin hazırlamak için tasarlanmıştır. Vakit sınırlılığından dolayı sadece en çok geçen kelimeler karşılaştırmalı olarak sunulmuştur. 
 
+Bundan sonraki süreçte, twit içerikleri daha detaylı bir şekilde incelenilerek Türkçe konuşan Twitter kullanıcılarınn gündem değişiklikleri, kırılımları, ve devamlılıkları tespit edilmeli ve bilimsel çalışmaları desteklemelidir. 
 
+## Detaylı Bilgi İçin
+
+Bu veriseti hakkındaki teknik sorular ya da içeriğe dair sorularınız için aşağıdaki iletişim maillerine yazabilirsiniz.
+Burak Özturan **burakoztrn[at]gmail[dot]com**.
+Yunus Emre Tapan **tapanyemre[at]gmail[dot]com**.
 
 
 

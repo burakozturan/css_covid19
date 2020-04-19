@@ -42,7 +42,7 @@ Elde edilen twitler üzerinden, ilk vakanın acıklanmasının öncesi ve sonras
 
 Toplam Twit Sayısı : **4,369,870**
 
-| **Tema          | Önce          | Sonra            | Toplam**           |
+| **Tema**        | Önce          | Sonra            | **Toplam**         |
 |-------------    |-----          |------------      |----------------    |
 | COVID           | 161,109       | 1,427,569        | 1,588,678          |
 | Politika        | 355,992       | 367,992          | 723,984            |
@@ -50,7 +50,7 @@ Toplam Twit Sayısı : **4,369,870**
 | Din             | 215,699       | 436,309          | 652,008            |
 | Ekonomi         | 19,532        | 74,682           | 94,214             |
 | Ülkeler         | 326,030       | 845,428          | 1,171,458          |
-| **Toplam        | 1,129,883     | 3,239,987        | 4,369,870**        |
+| **Toplam**      | 1,129,883     | 3,239,987        | **4,369,870**      |
 
 ## Gelecek Çalışmalar
 
@@ -61,8 +61,8 @@ Bundan sonraki süreçte, twit içerikleri daha detaylı bir şekilde incelenile
 ## Detaylı Bilgi İçin
 
 Bu veriseti hakkındaki teknik sorular ya da içeriğe dair sorularınız için aşağıdaki iletişim maillerine yazabilirsiniz.
-Burak Özturan **burakoztrn@gmail.com**.
-Yunus Emre Tapan **tapanyemre@gmail.com**.
+* Burak Özturan **burakoztrn@gmail.com**
+* Yunus Emre Tapan **tapanyemre@gmail.com**
 
 
 

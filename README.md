@@ -1,10 +1,12 @@
 # COVID-19 Twitter Veritabanı: Türkiye Örneklemi
 
-Bu veriseti çalışması, 2020 yılının ilk aylarından beri dünyada etkisini gösteren COVID-19 virüsünün Türkçe konuşan Twitter kullanıcılarının gündemini tespit etmek amacıyla kurulmuştur. Aşağıda bu araştırmanın dizaynı, içeriği ve kullanılan kodlar özetlenecektir. Aynı zamanda, bu verisetini kullanarak yürütülebilecek gelecek çalışmalara bazı tavsiyeler de sıralanacaktır. 
+## Araştırmanın Amacı
+
+Bu veriseti çalışması, 2020 yılının ilk aylarından beri dünyada etkisini gösteren COVID-19 virüsünün Türkçe konuşan Twitter kullanıcılarının gündemini tespit etmek amacıyla kurulmuştur. Bu çalışma halihazırda birçok dilde hazırlanan kapsamlı bir Twitter verisetinin [#COVID-19: The First Public Coronavirus Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs) tamamlayacısı olarak görülebilir. Böyle çalışmayı yapmaya ihtiyaç görmemimizin nedeni şöyle sıralanabilir; yukarda belirtilen çalışmanın kelime havuzunun dar olması ve temalara göre ayrılmaması, Türkçe tweet sayısının az olması, Türkçe tweetleri ayıklamaktaki zorluklardır. COVID-19 Twitter Veritabanı: Türkiye Örneklemi adlı bu çalışmada twitler hem temalara göre ayrı ayrı elde edilmiş hem de açıklanan ilk vakanın öncesi ve sonrasındaki gündemler ayrı ayrı tespit edilmiştir. Araştırma, aynı zamanda, Türkçe yazan Twitter kullanıcılarının Ortadoğu ve Avrupa'da vakaların artmasıyla beraber koronavirüsü gündemlerine aldıklarını ve Türkiye'de ilk vakanın açıklanmasıyla birlikte hem dini hem ekonomik hem politik hem de dış ülkeler hakkındaki gündemlerinde kırılmalar olduğunu varsaymaktadır. Bu raporda, bu kırılmaları göstermek için en çok geçen kelimeler üzerinden bir ön analiz sunulacaktır. 
 
 ## Araştırmanın Dizaynı
 
-Araştırma sırasıyla aşağıdaki adımlar izlenerek tasarlanmıştır:
+Aşağıda bu araştırmanın dizaynı, içeriği ve kullanılan kodlar özetlenecektir. Aynı zamanda, bu verisetini kullanarak yürütülebilecek gelecek çalışmalara bazı tavsiyeler de sıralanacaktır. 
 
 ### Anahtar kelimelerin çıkarılması ve temalara bölünmesi
 6 başlık altında kelime listesi çıkarılmıştır:

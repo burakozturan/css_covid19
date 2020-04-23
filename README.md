@@ -56,6 +56,32 @@ Toplam Twit Sayısı : **4,369,870**
 
 ![Politika karsilastirma](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politika_Karşılaştırma.png)
 
+
+![COVID](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Covid_karşılaştırma.png)
+
+
+![Dezenformasyon](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Dezenformasyon_Karşılaştırma.png)
+
+![Din](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison.png)
+
+![Din no keywoord](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword.png)
+
+
+
+
+![din no cuma](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword_but_cuma.png)
+
+![disiinfo](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Disinfo_no_keyword_comparison.png)
+
+
+![ekonomi](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ekonomi_Karşılaştırma.png)
+
+![politikaa](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politikaaaaa_comparison.png)
+
+![ulkeler no keyword](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/ulkeler_no_keywordcomparison.png)
+
+![ulkeler](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ulkeler_Karşılaştırma.png)
+
 ## Gelecek Çalışmalar
 
 Bu veriseti çalışması öncelikli olarak gelecek çalışmalara zemin hazırlamak için tasarlanmıştır. Vakit sınırlılığından dolayı sadece en çok geçen kelimeler karşılaştırmalı olarak sunulmuştur. 

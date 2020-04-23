@@ -54,25 +54,38 @@ Toplam Twit Sayısı : **4,369,870**
 | Ülkeler         | 326,030       | 845,428          | 1,171,458          |
 | **Toplam**      | 1,129,883     | 3,239,987        | **4,369,870**      |
 
+**Table 1**
+
 ![COVID](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Covid_karşılaştırma.png)
 
 * Oncesinde, Iran, Italya ve Cin gibi vakalarin yogunlukla goruldugu yerlere sikca referans verilmistir. Bu bize, vakanin aciklanmasindan oncede dis ulkelere yonelik gundemin virus yogunluklu oldugunu gostermektedir. Vaka aciklandiktan sonra ise Allah ve saglik gibi kelimeler one cikmaktadir. Bu durum bize Turkce yazan twitter kullanicilarinin sureci dini argumanlarlar ile acikladigina dair bir fikir verebilir. 
+
+**Table 2**
 
 ![Din no keywoord](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword.png)
 
 * Daha once sehit vurgusu yuksek iken, COVID-19 sonrasi donemde dua vurgusunun on plana ciktigi gorulmektedir. 
 
+**Table 3**
+
 ![politika](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politikaaaaa_comparison.png)
 
+
 * Daha once multeci ve sehit vurgulari one cikarken, sonrasinda bilim ve saglik vurgusu goze carpmaktadir. 
+
+**Table 4**
 
 ![Dezenformasyon](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Dezenformasyon_Karşılaştırma.png)
 
 * Komplo kelimesindeki bariz artis, Turkce konusan twitter kamuoyunun olasi dezenformasyonlara acik oldugunu gostermektedir. 
 
+**Table 5**
+
 ![ekonomi](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ekonomi_Karşılaştırma.png)
 
 * Daha onceleri dolarin durumu ve issizlik gibi temalar one cikarken, sonrasinda ise sokaga cikma yasagi ve devlet temalari one cikmaktadir. 
+
+**Table 6**
 
 ![ulkeler](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ulkeler_Karşılaştırma.png)
 

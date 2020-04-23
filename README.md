@@ -56,26 +56,29 @@ Toplam Twit Sayısı : **4,369,870**
 
 ![COVID](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Covid_karşılaştırma.png)
 
-Oncesinde, Iran, Italya ve Cin gibi vakalarin yogunlukla goruldugu yerlere sikca referans verilmistir. Bu bize, vakanin aciklanmasindan oncede dis ulkelere yonelik gundemin virus yogunluklu oldugunu gostermektedir. Vaka aciklandiktan sonra ise Allah ve saglik gibi kelimeler one cikmaktadir. Bu durum bize Turkce yazan twitter kullanicilarinin sureci dini argumanlarlar ile acikladigina dair bir fikir verebilir. 
+* Oncesinde, Iran, Italya ve Cin gibi vakalarin yogunlukla goruldugu yerlere sikca referans verilmistir. Bu bize, vakanin aciklanmasindan oncede dis ulkelere yonelik gundemin virus yogunluklu oldugunu gostermektedir. Vaka aciklandiktan sonra ise Allah ve saglik gibi kelimeler one cikmaktadir. Bu durum bize Turkce yazan twitter kullanicilarinin sureci dini argumanlarlar ile acikladigina dair bir fikir verebilir. 
 
 ![Din no keywoord](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword.png)
 
-Daha once sehit vurgusu yuksek iken, COVID-19 sonrasi donemde dua vurgusunun on plana ciktigi gorulmektedir. 
+* Daha once sehit vurgusu yuksek iken, COVID-19 sonrasi donemde dua vurgusunun on plana ciktigi gorulmektedir. 
 
 ![politika](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politikaaaaa_comparison.png)
 
-Daha once multeci ve sehit vurgulari one cikarken, sonrasinda bilim ve saglik vurgusu goze carpmaktadir. 
+* Daha once multeci ve sehit vurgulari one cikarken, sonrasinda bilim ve saglik vurgusu goze carpmaktadir. 
 
 ![Dezenformasyon](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Dezenformasyon_Karşılaştırma.png)
 
-Komplo kelimesindeki bariz artis, Turkce konusan twitter kamuoyunun olasi dezenformasyonlara acik oldugunu gostermektedir. 
+* Komplo kelimesindeki bariz artis, Turkce konusan twitter kamuoyunun olasi dezenformasyonlara acik oldugunu gostermektedir. 
 
 ![ekonomi](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ekonomi_Karşılaştırma.png)
 
-
-![ulkeler no keyword](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/ulkeler_no_keywordcomparison.png)
+* Daha onceleri dolarin durumu ve issizlik gibi temalar one cikarken, sonrasinda ise sokaga cikma yasagi ve devlet temalari one cikmaktadir. 
 
 ![ulkeler](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ulkeler_Karşılaştırma.png)
+
+* Ilk donemde, Turkiye'nin son donem dis politikasinda onemli bir yer tutan suriye, idlib ve rusya one cikmaktadir. Daha sonra ise, Almanya, AB, ABD ve Italya gundemde one cikan kelimeler olarak goze carpmaktadir. 
+
+
 
 ## Gelecek Çalışmalar
 

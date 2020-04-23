@@ -58,7 +58,7 @@ Toplam Twit Sayısı : **4,369,870**
 
 ![COVID](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Covid_karşılaştırma.png)
 
-* Oncesinde, Iran, Italya ve Cin gibi vakalarin yogunlukla goruldugu yerlere sikca referans verilmistir. Bu bize, vakanin aciklanmasindan oncede dis ulkelere yonelik gundemin virus yogunluklu oldugunu gostermektedir. Vaka aciklandiktan sonra ise Allah ve saglik gibi kelimeler one cikmaktadir. Bu durum bize Turkce yazan twitter kullanicilarinin sureci dini argumanlarlar ile acikladigina dair bir fikir verebilir. 
+* Öncesinde, İran, İtalya ve Çin gibi vakaların yoğunlukla görüldüğü yerlere sıkça referans verilmiştir. Bu bize, vakanın açıklanmasından önce de dış ülkelere yönelik gündemin virüs yoğunluklu oldugunu göstermektedir. Vaka açıklandıktan sonra ise Allah ve sağlık gibi kelimeler öne çıkmaktadır. Bu durum bize Türkçe yazan twitter kullanıcılarının süreci dini argümanlar ile açıkladığına dair fikir sunmaktadır. 
 
 **Tablo 2: Din hakkindaki anahtar kelimeleri**
 

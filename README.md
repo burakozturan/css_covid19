@@ -54,6 +54,8 @@ Toplam Twit Sayısı : **4,369,870**
 | Ülkeler         | 326,030       | 845,428          | 1,171,458          |
 | **Toplam**      | 1,129,883     | 3,239,987        | **4,369,870**      |
 
+![Politika karsilastirma](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politika_Karşılaştırma.png)
+
 ## Gelecek Çalışmalar
 
 Bu veriseti çalışması öncelikli olarak gelecek çalışmalara zemin hazırlamak için tasarlanmıştır. Vakit sınırlılığından dolayı sadece en çok geçen kelimeler karşılaştırmalı olarak sunulmuştur. 

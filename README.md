@@ -54,29 +54,24 @@ Toplam Twit Sayısı : **4,369,870**
 | Ülkeler         | 326,030       | 845,428          | 1,171,458          |
 | **Toplam**      | 1,129,883     | 3,239,987        | **4,369,870**      |
 
-![Politika karsilastirma](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politika_Karşılaştırma.png)
-
-
 ![COVID](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Covid_karşılaştırma.png)
 
-
-![Dezenformasyon](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Dezenformasyon_Karşılaştırma.png)
-
-![Din](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison.png)
+Oncesinde, Iran, Italya ve Cin gibi vakalarin yogunlukla goruldugu yerlere sikca referans verilmistir. Bu bize, vakanin aciklanmasindan oncede dis ulkelere yonelik gundemin virus yogunluklu oldugunu gostermektedir. Vaka aciklandiktan sonra ise Allah ve saglik gibi kelimeler one cikmaktadir. Bu durum bize Turkce yazan twitter kullanicilarinin sureci dini argumanlarlar ile acikladigina dair bir fikir verebilir. 
 
 ![Din no keywoord](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword.png)
 
+Daha once sehit vurgusu yuksek iken, COVID-19 sonrasi donemde dua vurgusunun on plana ciktigi gorulmektedir. 
 
+![politika](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politikaaaaa_comparison.png)
 
+Daha once multeci ve sehit vurgulari one cikarken, sonrasinda bilim ve saglik vurgusu goze carpmaktadir. 
 
-![din no cuma](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword_but_cuma.png)
+![Dezenformasyon](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Dezenformasyon_Karşılaştırma.png)
 
-![disiinfo](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Disinfo_no_keyword_comparison.png)
-
+Komplo kelimesindeki bariz artis, Turkce konusan twitter kamuoyunun olasi dezenformasyonlara acik oldugunu gostermektedir. 
 
 ![ekonomi](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ekonomi_Karşılaştırma.png)
 
-![politikaa](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politikaaaaa_comparison.png)
 
 ![ulkeler no keyword](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/ulkeler_no_keywordcomparison.png)
 

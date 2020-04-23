@@ -54,41 +54,41 @@ Toplam Twit Sayısı : **4,369,870**
 | Ülkeler         | 326,030       | 845,428          | 1,171,458          |
 | **Toplam**      | 1,129,883     | 3,239,987        | **4,369,870**      |
 
-**Tablo 1: COVID hakkindaki anahtar kelimeleri**
+**Tablo 1: COVID hakkındaki anahtar kelimeler**
 
 ![COVID](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Covid_karşılaştırma.png)
 
 * Öncesinde, İran, İtalya ve Çin gibi vakaların yoğunlukla görüldüğü yerlere sıkça referans verilmiştir. Bu bize, vakanın açıklanmasından önce de dış ülkelere yönelik gündemin virüs yoğunluklu oldugunu göstermektedir. Vaka açıklandıktan sonra ise Allah ve sağlık gibi kelimeler öne çıkmaktadır. Bu durum bize Türkçe yazan twitter kullanıcılarının süreci dini argümanlar ile açıkladığına dair fikir sunmaktadır. 
 
-**Tablo 2: Din hakkindaki anahtar kelimeleri**
+**Tablo 2: Din hakkındaki anahtar kelimeler**
 
 ![Din no keywoord](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword.png)
 
-* Daha once sehit vurgusu yuksek iken, COVID-19 sonrasi donemde dua vurgusunun on plana ciktigi gorulmektedir. 
+* Daha önce şehit vurgusu yüksek iken, COVID-19 sonrası dönemde dua vurgusunun ön plana çıktığı görülmektedir. 
 
-**Tablo 3: Politika hakkindaki anahtar kelimeleri**
+**Tablo 3: Politika hakkındaki anahtar kelimeler**
 
 ![politika](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politikaaaaa_comparison.png)
 
-* Daha once multeci ve sehit vurgulari one cikarken, sonrasinda bilim ve saglik vurgusu goze carpmaktadir. 
+* Daha önce mülteci ve şehit vurguları öne çıkarken, sonrasında bilim ve sağlık vurgusu göze çarpmaktadir. 
 
-**Tablo 4: Dezenformasyon hakkindaki anahtar kelimeleri**
+**Tablo 4: Dezenformasyon hakkındaki anahtar kelimeler**
 
 ![Dezenformasyon](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Dezenformasyon_Karşılaştırma.png)
 
-* Komplo kelimesindeki bariz artis, Turkce konusan twitter kamuoyunun olasi dezenformasyonlara acik oldugunu gostermektedir. 
+* Komplo kelimesindeki bariz artış, Türkçe konuşan twitter kamuoyunun olası dezenformasyonlara açık olduğunu göstermektedir. 
 
-**Tablo 5: Ekonomi hakkindaki anahtar kelimeleri**
+**Tablo 5: Ekonomi hakkındaki anahtar kelimeler**
 
 ![ekonomi](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ekonomi_Karşılaştırma.png)
 
-* Daha onceleri dolarin durumu ve issizlik gibi temalar one cikarken, sonrasinda ise sokaga cikma yasagi ve devlet temalari one cikmaktadir. 
+* Daha önceleri doların durumu ve işsizlik gibi temalar öne çıkarken, sonrasında ise sokağa çıkma yasağı ve devlet temaları öne çıkmaktadır. 
 
-**Tablo 6: Ulkeler hakkindaki anahtar kelimeleri**
+**Tablo 6: Ülkeler hakkindaki anahtar kelimeler**
 
 ![ulkeler](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ulkeler_Karşılaştırma.png)
 
-* Ilk donemde, Turkiye'nin son donem dis politikasinda onemli bir yer tutan suriye, idlib ve rusya one cikmaktadir. Daha sonra ise, Almanya, AB, ABD ve Italya gundemde one cikan kelimeler olarak goze carpmaktadir. 
+* İlk donemde, Türkiye'nin son dönem dış politikasında önemli bir yer tutan Suriye, İdlib ve Rusya öne çıkmaktadır. Daha sonra ise, Almanya, AB, ABD ve İtalya gündemde öne çıkan kelimeler olarak göze çarpmaktadır. 
 
 
 ## Gelecek Çalışmalar

@@ -2,13 +2,13 @@
 
 ## Araştırmanın Amacı ve İçeriği
 
-Bu veriseti çalışması, 2020 yılının ilk aylarından beri dünyada etkisini gösteren COVID-19 virüsünün Türkçe konuşan Twitter kullanıcılarının gündemine tesirini tespit etmek amacıyla kurulmuştur.  Bu çalışma halihazırda birçok dilde hazırlanan kapsamlı bir Twitter verisetinin [#COVID-19: The First Public Coronavirus Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs) tamamlayacısı olarak görülebilir. Böyle bir çalışmanın şimdiye kadar yapılmamış olması bizi motive eden önemli bir nedendir. Yukarda belirtilen çalışmada ise kelime havuzunun dar olması ve temalara göre ayrılmaması, Türkçe tweet sayısının az olması, Türkçe tweetleri ayıklamaktaki zorluklar yeni bir veriseti çıkarmayı zorunlu hale getirmiştir. 
+Bu veri seti çalışması, 2020 yılının ilk aylarından beri dünyada etkisini gösteren COVID-19 virüsünün Türkçe konuşan Twitter kullanıcılarının gündemine tesirini tespit etmek amacıyla kurulmuştur.  Bu çalışma halihazırda birçok dilde hazırlanan kapsamlı bir Twitter veri setinin [#COVID-19: The First Public Coronavirus Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs) tamamlayacısı olarak görülebilir. Böyle bir çalışmanın şimdiye kadar yapılmamış olması bizi motive eden önemli bir nedendir. Yukarda belirtilen çalışmada ise kelime havuzunun dar olması ve temalara göre ayrılmaması, Türkçe tweet sayısının az olması, Türkçe tweetleri ayıklamaktaki zorluklar yeni bir veri seti çıkarmayı zorunlu hale getirmiştir. 
 
-"COVID-19 Twitter Veritabanı: Türkiye Örneklemi" adlı bu çalışmada tweetler hem temalara göre ayrı ayrı elde edilmiş hem de açıklanan ilk vakanın öncesi ve sonrasındaki gündemler ayrı ayrı tespit edilmiştir. Araştırma, aynı zamanda, Türkçe yazan Twitter kullanıcılarının Ortadoğu ve Avrupa'da vakaların artmasıyla beraber koronavirüsü gündemlerine aldıklarını ve Türkiye'de ilk vakanın açıklanmasıyla birlikte hem dini hem ekonomik hem politik hem de dış ülkeler hakkındaki gündemlerinde kırılmalar olduğunu varsaymaktadır. Bu raporda, bu kırılmaları göstermek için en çok geçen kelimeler üzerinden bir ön analiz sunulacaktır. 
+"COVID-19 Twitter Veri Tabanı: Türkiye Örneklemi" adlı bu çalışmada tweetler hem temalara göre ayrı ayrı elde edilmiş hem de açıklanan ilk vakanın öncesi ve sonrasındaki gündemler ayrı ayrı tespit edilmiştir. Araştırma, aynı zamanda, Türkçe yazan Twitter kullanıcılarının Ortadoğu ve Avrupa'da vakaların artmasıyla beraber koronavirüsü gündemlerine aldıklarını ve Türkiye'de ilk vakanın açıklanmasıyla birlikte hem dini hem ekonomik hem politik hem de dış ülkeler hakkındaki gündemlerinde kırılmalar olduğunu varsaymaktadır. Bu raporda, bu kırılmaları göstermek için en çok geçen kelimeler üzerinden bir ön analiz sunulacaktır. 
 
 ## Araştırmanın Dizaynı
 
-Aşağıda bu araştırmanın dizaynı, içeriği ve kullanılan kodlar özetlenecektir. Aynı zamanda, bu verisetini kullanarak yürütülebilecek gelecek çalışmalara bazı tavsiyeler sıralanacaktır. İlk olarak, anahtar kelimeler temalara göre çıkartılmıştır. Daha sonra, tarih aralığı belirlenip tweetler çekilmiştir. Elde edilen tweetler, Twitter'ın [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy) ile uyumlu olarak ID'ler halinde herkese açık olarak depolanmıştır. En sonunda ise programlamalı metin analizi teknikleri kullanılarak tweetler üzerinden temel çıktılar alınıp takdim edilmiştir. 
+Aşağıda bu araştırmanın dizaynı, içeriği ve kullanılan kodlar özetlenecektir. Aynı zamanda, bu veri setini kullanarak yürütülebilecek gelecek çalışmalara bazı tavsiyeler sıralanacaktır. İlk olarak, anahtar kelimeler temalara göre çıkartılmıştır. Daha sonra, tarih aralığı belirlenip tweetler çekilmiştir. Elde edilen tweetler, Twitter'ın [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy) ile uyumlu olarak ID'ler halinde herkese açık olarak depolanmıştır. En sonunda ise programlamalı metin analizi teknikleri kullanılarak tweetler üzerinden temel çıktılar alınıp takdim edilmiştir. 
 
 ### Anahtar kelimelerin çıkarılması ve temalara bölünmesi
 
@@ -28,11 +28,11 @@ Temalar, COVID-19 tartışmaları döneminde muhtemel olarak etkilenen veya etki
   * Verileri önce ve sonra diye iki ayrı şekilde ayırmamızın amacı, gündemlerdeki süreklilik ve kırılımların belirlenmesini kolaylaştırmaktır.
   * 11 Mart öncesi gündem, İran'da açıklanan ilk vaka tarihi olan 19 Şubat ile sınırlandırılmıştır. Buradaki amaç, Ortadoğu ve Avrupa bölgelerinde ilk vakaların açıklanmasını bir dönüm noktası olarak belirlemektir. 
   * Veriler 7 Nisan tarihine kadar çekilmiştir. Bu tarih Türkiye'de ilk vakanın açıklanmasından yaklaşık olarak bir ay sonrasına denk gelmektedir. 
-  * Bu açılardan, bu dosyadaki veriseti ilk vakanın açıklanmasından önce ve sonraki gündem değişimlerini ve sürekliliklerini incelemeye imkan tanımaktadır.
+  * Bu açılardan, bu dosyadaki veri seti ilk vakanın açıklanmasından önce ve sonraki gündem değişimlerini ve sürekliliklerini incelemeye imkan tanımaktadır.
 
 ### Verilerin Depolanması ve ID'lerin Çıkarılması
 
-  * Twitter'ın [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy) ile uyumlu olarak toplanılan tweetlerin sadece Tweet ID'leri temalara bölünerek dosyalar halinde depolanmıştır. ID'ler çıkarılırken tekrar eden  tweetler temizlenerek her tema için özgün tweetlerden oluşan verisetleri oluşturulmuştur.
+  * Twitter'ın [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy) ile uyumlu olarak toplanılan tweetlerin sadece Tweet ID'leri temalara bölünerek dosyalar halinde depolanmıştır. ID'ler çıkarılırken tekrar eden  tweetler temizlenerek her tema için özgün tweetlerden oluşan veri setleri oluşturulmuştur.
   * Bu ID'leri kullanarak çalışma yapmak isteyenler için [Hydrator](https://github.com/DocNow/hydrator) and [Twarc](https://github.com/DocNow/twarc) gibi araçları kullanmayı tavsiye ediyoruz. Detaylı talimatlar için linklerdeki açıklamalara bakılabilir. 
 
 ### Kullanılan Kodlar
@@ -104,7 +104,7 @@ Toplam Twit Sayısı : **4,369,870**
 
 ## Gelecek Çalışmalar
 
-Bu veriseti çalışması öncelikli olarak gelecek çalışmalara zemin hazırlamak için tasarlanmıştır. Vakit sınırlılığından dolayı sadece en çok geçen kelimeler karşılaştırmalı olarak sunulmuş ve bunlar üzerinden görülebilecek temel süreklilik ve kırılmalar not alınmıştır. 
+Bu veri seti çalışması öncelikli olarak gelecek çalışmalara zemin hazırlamak için tasarlanmıştır. Vakit sınırlılığından dolayı sadece en çok geçen kelimeler karşılaştırmalı olarak sunulmuş ve bunlar üzerinden görülebilecek temel süreklilik ve kırılmalar not alınmıştır. 
 
 Bundan sonraki süreçte;
 
@@ -114,7 +114,7 @@ Bundan sonraki süreçte;
 
 ## Detaylı Bilgi İçin
 
-Bu veriseti hakkındaki teknik sorular ya da içeriğe dair sorularınız için aşağıdaki iletişim maillerine yazabilirsiniz.
+Bu veri seti hakkındaki teknik sorular ya da içeriğe dair sorularınız için aşağıdaki iletişim maillerine yazabilirsiniz.
 * Burak Özturan **burakoztrn@gmail.com**
 * Yunus Emre Tapan **tapanyemre@gmail.com**
 

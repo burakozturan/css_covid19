@@ -37,10 +37,9 @@ Temalar, COVID-19 tartışmaları döneminde muhtemel olarak etkilenen veya etki
 
 ### Kullanılan Kodlar
 
-Bu çalışma, temel olarak üç kod setine dayanarak yapılmıştır.
- * İlk olarak Twitter'dan veri çekebilmek için Python dilinde yazılmış [Twint](https://github.com/twintproject/twint) paketinden yararlanılmıştır.
- * Daha sonra, elde edilen verileri düzenlemek ve ID'lerini çıkarıp kamusallaştırmak işlemleri gerekli [kodlar](https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/data/data_birlestirme.ipynb) kullanılarak gerçekleştirilmiştir.
- * En son olarak, içeriğe dair ilk fikirlerimizi elde etmek için [programlamalı metin analizi kodları](https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/analiz/Covid_quantitative_text_analysis.ipynb)
+Bu çalışma, temel olarak iki kod setine dayanarak yapılmıştır.
+ * Ilk olarak, elde edilen verileri düzenlemek ve ID'lerini çıkarıp kamusallaştırmak işlemleri gerekli [kodlar](https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/data/data_birlestirme.ipynb) kullanılarak gerçekleştirilmiştir.
+ * Daha sonra, içeriğe dair ilk fikirlerimizi elde etmek için [programlamalı metin analizi kodları](https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/analiz/Covid_quantitative_text_analysis.ipynb)
 kullanılmıştır.
 
 ## Temel Çıktılar

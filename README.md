@@ -118,4 +118,11 @@ Bu veri seti hakkındaki teknik sorular ya da içeriğe dair sorularınız için
 * Yunus Emre Tapan **tapanyemre@gmail.com**
 
 
+##Citation 
+
+Please cite the data as:
+
+Burak Özturan, & Yunus Emre Tapan. (2020). Covid-19 Twitter Database: Turkish Sample (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3908982
+
+
 
